@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 > 
-# longyuan
-{: .prompt-tip }
->
+# longyuan{: .prompt-tip }
 ## 教育经历
   * 中国人民大学 统计学院
 
@@ -17,4 +15,3 @@ order: 4
   * 围棋以及各种棋类
   * 乒羽
   * 音乐
-{: .prompt-tip }
