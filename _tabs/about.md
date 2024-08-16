@@ -42,7 +42,7 @@ Welcome to my Blog! It's generated from a static web page built using Jekyll on 
 欢迎来到我的 Blog！这是一个由在 Github 上使用 Jekyll 构建的静态网页生成的 Blog。此 Blog 主要用于记录我的学习笔记和对于统计学与数学的想法，不定期更新。随时欢迎你来访问探索。
 
 🎓 **教育经历：**
-- 2023/09 ：统计学，统计学院，中国人民大学。
+- 2023/09 - ：统计学，统计学院，中国人民大学。
 
 🔍 **关键词：**
 * 统计学生/ 数学 / 人工智能
